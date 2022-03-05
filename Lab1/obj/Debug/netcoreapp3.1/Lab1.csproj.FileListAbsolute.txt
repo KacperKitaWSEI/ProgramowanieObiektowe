@@ -1,0 +1,14 @@
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\Users\Kacper.Kita\source\repos\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
