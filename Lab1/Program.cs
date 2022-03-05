@@ -6,39 +6,40 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             Fraction fraction = new Fraction();
+
+            fraction.ToString();
+            Console.WriteLine(fraction.counter);
         }
 
         class Fraction
         {
-            private int counter = 0;
-            private int denominator = 0;
+            public int counter { get; private set; }
+            public int denominator { get; private set; }
 
             public Fraction() 
             {
                 counter = 20;
                 denominator = 45;
-                Console.WriteLine("Konstuktor domyślny");
             }
 
             public Fraction(int a, int b)
             {
                 counter = a;
-                denominator = b;
-                Console.WriteLine(counter.ToString());
-                Console.WriteLine(counter + denominator);
-                Console.WriteLine(counter - denominator);
-                Console.WriteLine(counter * denominator);
-                Console.WriteLine(counter / denominator);
+                counter = b;
             }
 
-           public Fraction(Fraction previousFraction)
+            public Fraction(Fraction previousFraction)
             {
                 counter = previousFraction.counter;
                 denominator = previousFraction.denominator;
             }
+
+            public void ToString()
+            {
+                Console.WriteLine($"{counter}/{denominator}");
+            }
+
     }
     }
 }
