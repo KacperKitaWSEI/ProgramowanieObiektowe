@@ -12,7 +12,7 @@ namespace Lab1
             Console.WriteLine(fraction.counter);
         }
 
-        class Fraction
+        class Fraction : IEquatable<Fraction>
         {
             public int counter { get; private set; }
             public int denominator { get; private set; }
@@ -40,6 +40,44 @@ namespace Lab1
                 Console.WriteLine($"{counter}/{denominator}");
             }
 
+
+
+            public bool Equals(Fraction fraction)
+            {
+                if (fraction == null)
+                {
+                    return false;
+                }
+
+                if (this.counter == this.denominator)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+
+    /*       public int CompareTo(object obj)
+            {
+                if (obj == null)
+                {
+                    return 0;
+                }
+
+                Fraction fraction = obj as Fraction;
+                if (fraction != null)
+                {
+                    return this.
+                }
+            }
+
+            public double Splitting(int a, int b)
+            {
+                return a / b;
+            }
+    */
     }
     }
 }
