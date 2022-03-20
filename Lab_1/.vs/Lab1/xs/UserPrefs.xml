@@ -1,31 +1,16 @@
 ﻿<Properties StartupConfiguration="{BFBE81F1-852E-44A1-A987-B35C7DCDC302}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1/Fraction.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1/Program.cs">
     <Files>
       <File FileName="Lab1/Program.cs" Line="8" Column="10" />
-      <File FileName="Lab1/EmptyClass.cs" Line="56" Column="86" />
-      <File FileName="../ProgramowanieObiektoweLab/lab1/Lab1Tests/FractionTest.cs" Line="61" Column="77" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab1" expanded="True">
             <Node name="Lab1" expanded="True">
-              <Node name="Fraction.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="Lab1Tests" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Lab1" expanded="True">
-            <Node name="Lab1Tests" expanded="True">
-              <Node name="Lab1Tests" expanded="True">
-                <Node name="FractionTest" expanded="True">
-                  <Node name="TestDivisionOperator" selected="True" />
-                </Node>
-              </Node>
-            </Node>
           </Node>
         </State>
       </Pad>

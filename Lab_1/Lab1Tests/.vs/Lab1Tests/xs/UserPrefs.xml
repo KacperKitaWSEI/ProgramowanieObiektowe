@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6D0B1A97-02E4-48A6-B1C7-7BE4E778A2A0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab1Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FractionTest.cs">
+    <Files>
+      <File FileName="FractionTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1Tests" expanded="True">
+            <Node name="Lab1Tests" expanded="True">
+              <Node name="FractionTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

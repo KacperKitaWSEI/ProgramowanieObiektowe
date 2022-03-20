@@ -25,3 +25,16 @@ D:/Users/Kacper.Kita/source/repos/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genrunt
 /Users/kacperkita/Documents/Studia/ProgramowanieObiektowe_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
 /Users/kacperkita/Documents/Studia/ProgramowanieObiektowe_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
 /Users/kacperkita/Documents/Studia/ProgramowanieObiektowe_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.AssemblyReference.cache
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/kacperkita/Documents/ProgramowanieObiektowe/Lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
