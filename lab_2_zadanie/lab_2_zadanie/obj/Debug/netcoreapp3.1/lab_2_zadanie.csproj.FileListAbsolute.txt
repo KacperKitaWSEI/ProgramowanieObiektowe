@@ -1,0 +1,13 @@
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.csproj.AssemblyReference.cache
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.AssemblyInfoInputs.cache
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.AssemblyInfo.cs
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.csproj.CoreCompileInputs.cache
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/bin/Debug/netcoreapp3.1/lab_2_zadanie.deps.json
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/bin/Debug/netcoreapp3.1/lab_2_zadanie.runtimeconfig.json
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/bin/Debug/netcoreapp3.1/lab_2_zadanie.runtimeconfig.dev.json
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/bin/Debug/netcoreapp3.1/lab_2_zadanie.dll
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/bin/Debug/netcoreapp3.1/lab_2_zadanie.pdb
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.dll
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.pdb
+/Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.genruntimeconfig.cache
