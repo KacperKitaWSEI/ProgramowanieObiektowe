@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab3.Logger
 {
-    class SocketLogger: ILogger
+    public class SocketLogger: ILogger
     {
         protected ClientSocket clientSocket;
 
@@ -20,10 +20,7 @@ namespace Lab3.Logger
 
         ~SocketLogger() { }
 
-        public void Dispose()
-        {
-            //TODO: Dodać dispose
-        }
+        public abstract void Dispose();
 
         public void Log(params string[] messages)
         {

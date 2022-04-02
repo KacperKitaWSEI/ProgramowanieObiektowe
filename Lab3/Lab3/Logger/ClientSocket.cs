@@ -6,7 +6,7 @@ using System.Net.Sockets;
 
 namespace Lab3.Logger
 {
-    public class ClientSocket : IDisposable
+    public class ClientSocket : SocketLogger
     {
         private bool disposed;
 
