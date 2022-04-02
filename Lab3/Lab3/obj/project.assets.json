@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Kacper.Kita\\Programowanie\\ProgramowanieObiektowe\\lab_2_zadanie\\lab_2_zadanie\\lab_2_zadanie.csproj",
-      "projectName": "lab_2_zadanie",
-      "projectPath": "D:\\Users\\Kacper.Kita\\Programowanie\\ProgramowanieObiektowe\\lab_2_zadanie\\lab_2_zadanie\\lab_2_zadanie.csproj",
+      "projectUniqueName": "D:\\Users\\Kacper.Kita\\Programowanie\\ProgramowanieObiektowe\\Lab3\\Lab3\\Lab3.csproj",
+      "projectName": "Lab3",
+      "projectPath": "D:\\Users\\Kacper.Kita\\Programowanie\\ProgramowanieObiektowe\\Lab3\\Lab3\\Lab3.csproj",
       "packagesPath": "D:\\Users\\Kacper.Kita\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Kacper.Kita\\Programowanie\\ProgramowanieObiektowe\\lab_2_zadanie\\lab_2_zadanie\\obj\\",
+      "outputPath": "D:\\Users\\Kacper.Kita\\Programowanie\\ProgramowanieObiektowe\\Lab3\\Lab3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

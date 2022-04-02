@@ -27,6 +27,9 @@ namespace lab_2_zadanie
 
             Shop shop = new Shop("Super Market", persons, products);
 
+            IThing a = shop;
+
+
             shop.Print();
         }
     }

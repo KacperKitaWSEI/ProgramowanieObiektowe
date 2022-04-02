@@ -1,7 +1,7 @@
 ﻿using System;
 namespace lab_2_zadanie
 {
-    public class Shop
+    public class Shop: IThing
     {
 
         protected string name;

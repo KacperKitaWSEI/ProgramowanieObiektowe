@@ -11,3 +11,17 @@
 /Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.dll
 /Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.pdb
 /Users/kacperkita/Documents/Studia/ProgramowanieObiektowe/lab_2_zadanie/lab_2_zadanie/obj/Debug/netcoreapp3.1/lab_2_zadanie.genruntimeconfig.cache
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\bin\Debug\netcoreapp3.1\lab_2_zadanie.exe
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\bin\Debug\netcoreapp3.1\lab_2_zadanie.deps.json
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\bin\Debug\netcoreapp3.1\lab_2_zadanie.runtimeconfig.json
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\bin\Debug\netcoreapp3.1\lab_2_zadanie.runtimeconfig.dev.json
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\bin\Debug\netcoreapp3.1\lab_2_zadanie.dll
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\bin\Debug\netcoreapp3.1\lab_2_zadanie.pdb
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.csproj.AssemblyReference.cache
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.AssemblyInfoInputs.cache
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.AssemblyInfo.cs
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.csproj.CoreCompileInputs.cache
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.dll
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.pdb
+D:\Users\Kacper.Kita\Programowanie\ProgramowanieObiektowe\lab_2_zadanie\lab_2_zadanie\obj\Debug\netcoreapp3.1\lab_2_zadanie.genruntimeconfig.cache
