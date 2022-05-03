@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{E9677648-10BB-4DDF-9477-36E738BE6484}|Default">
   <MonoDevelop.Ide.ItemProperties.Lab4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4/Nodes.cs">
     <Files>
-      <File FileName="Lab4/Program.cs" Line="44" Column="1" />
-      <File FileName="Lab4/ByTypes.cs" Line="1" Column="1" />
-      <File FileName="Lab4/ByExtensions.cs" Line="1" Column="1" />
-      <File FileName="Lab4/BySizes.cs" Line="1" Column="1" />
-      <File FileName="Lab4/CountsByFirstLeter.cs" Line="1" Column="1" />
+      <File FileName="Lab4/Program.cs" Line="14" Column="39" />
+      <File FileName="Lab4/ByTypes.cs" />
+      <File FileName="Lab4/ByExtensions.cs" />
+      <File FileName="Lab4/BySizes.cs" />
+      <File FileName="Lab4/CountsByFirstLeter.cs" />
+      <File FileName="Lab4/Nodes.cs" Line="49" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab4" expanded="True">
             <Node name="Lab4" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Nodes.cs" selected="True" />
             </Node>
           </Node>
         </State>
