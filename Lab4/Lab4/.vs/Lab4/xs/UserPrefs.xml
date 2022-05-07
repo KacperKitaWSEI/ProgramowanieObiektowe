@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{E9677648-10BB-4DDF-9477-36E738BE6484}|Default">
   <MonoDevelop.Ide.ItemProperties.Lab4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4/Utils.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4/ByExtensions.cs">
     <Files>
-      <File FileName="Lab4/Program.cs" Line="23" Column="1" />
-      <File FileName="Lab4/ByTypes.cs" Line="48" Column="1" />
-      <File FileName="Lab4/ByExtensions.cs" Line="48" Column="1" />
-      <File FileName="Lab4/BySizes.cs" Line="46" Column="1" />
-      <File FileName="Lab4/CountsByFirstLeter.cs" Line="58" Column="1" />
-      <File FileName="Lab4/Nodes.cs" Line="20" Column="1" />
-      <File FileName="Lab4/FileDetails.cs" Line="30" Column="1" />
-      <File FileName="Lab4/Orders.cs" Line="44" Column="1" />
-      <File FileName="Lab4/RecursiveFileProcessor.cs" Line="132" Column="1" />
+      <File FileName="Lab4/Program.cs" Line="5" Column="12" />
+      <File FileName="Lab4/ByTypes.cs" Line="5" Column="12" />
+      <File FileName="Lab4/ByExtensions.cs" Line="5" Column="12" />
+      <File FileName="Lab4/BySizes.cs" Line="5" Column="12" />
+      <File FileName="Lab4/CountsByFirstLeter.cs" Line="5" Column="12" />
+      <File FileName="Lab4/Nodes.cs" Line="2" Column="1" />
+      <File FileName="Lab4/FileDetails.cs" Line="1" Column="12" />
+      <File FileName="Lab4/Orders.cs" Line="5" Column="12" />
+      <File FileName="Lab4/RecursiveFileProcessor.cs" Line="6" Column="12" />
       <File FileName="Lab4/Utils.cs" Line="7" Column="12" />
     </Files>
     <Pads>
@@ -18,7 +18,7 @@
         <State name="__root__">
           <Node name="Lab4" expanded="True">
             <Node name="Lab4" expanded="True">
-              <Node name="Utils.cs" selected="True" />
+              <Node name="ByExtensions.cs" selected="True" />
             </Node>
           </Node>
         </State>
