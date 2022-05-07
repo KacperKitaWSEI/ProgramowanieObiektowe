@@ -1,18 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace Lab4
 {
-    class Program
+    internal class Program
     {
-
-        public static void Main()
+        static void Main(string[] args)
         {
-            Nodes nodes = new Nodes();
-            ByTypes types = new ByTypes();
+            Console.WriteLine("Podaj ścieżkę bezwględną do folderu: ");
+
+            string rootDir = Console.ReadLine();
+
+            RecursiveFileProcessor processor = new RecursiveFileProcessor();
+            processor.Run(rootDir);
+            processor.Log();
         }
-}
+
+
+    }
 }

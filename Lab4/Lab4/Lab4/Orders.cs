@@ -4,14 +4,14 @@ using System.Linq;
 
 namespace Lab4
 {
-    public class ByTypes
+    public class Orders
     {
         public List<string> headers;
         public List<FileDetails> values;
         System.Text.StringBuilder log = new System.Text.StringBuilder();
         Utils utils = new Utils();
 
-        public ByTypes(List<string> headers, List<FileDetails> values)
+        public Orders(List<string> headers, List<FileDetails> values)
         {
             this.headers = headers;
             this.values = values;
@@ -22,26 +22,22 @@ namespace Lab4
             return log.ToString();
         }
 
-        public void Print(List<string> headers, IEnumerable<string> indexes, string head)
+        public void Print(List<string> headers, List<FileDetails> values, bool path, string head)
         {
             log.Append(String.Format($"\t{head}"));
             Utils.CreateHeaders(headers, log);
-            foreach (var idx in indexes)
+            foreach (var item in values)
             {
-                var sorted = values.Where(x => x.Category == idx).ToList();
 
-                var counts = sorted.Count();
-                if (counts > 0)
+                log.Append(String.Format("{0,20} {1, 15}\t\t", item.Name, item.Size));
+                if (path)
                 {
-                    Utils.Stats(sorted, counts, idx, log);
+                    log.Append(String.Format("{0, 12}", $"{item.Path}\n"));
                 }
                 else
-                {
-                    log.Append(String.Format("{0,20} {1,12}\n\n", $"{idx}", $"{counts}"));
-                }
+                    log.Append("\n");
             }
             log.Append(String.Format($"\n"));
-
         }
     }
 }
