@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liczby peirwsze", "Liczby peirwsze\Liczby peirwsze.csproj", "{BEC6B29B-4839-4C7B-B5F7-5D09DE397672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC6B29B-4839-4C7B-B5F7-5D09DE397672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC6B29B-4839-4C7B-B5F7-5D09DE397672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC6B29B-4839-4C7B-B5F7-5D09DE397672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC6B29B-4839-4C7B-B5F7-5D09DE397672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40BE2F0-A91C-4E22-84C1-5B71666F9766}
+	EndGlobalSection
+EndGlobal
